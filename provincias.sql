@@ -33,7 +33,7 @@ INSERT INTO `provincias` (`id`, `slug`, `provincia`, `comunidad_id`, `capital_id
 (2, 'albacete', 'Albacete', 8, 54),
 (3, 'alicante', 'Alicante', 10, 152),
 (4, 'almeria', 'Almería', 1, 292),
-(5, 'vila', 'Ávila', 7, 395),
+(5, 'avila', 'Ávila', 7, 395),
 (6, 'badajoz', 'Badajoz', 11, 644),
 (7, 'illes-balears', 'Illes Balears', 4, 836),
 (8, 'barcelona', 'Barcelona', 9, 881),
